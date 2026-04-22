@@ -763,22 +763,22 @@ Te amo mt meu pinguinzinho🐧❤️ /p>
 
         <section class="photo-gallery">
             <div class="photo-frame">
-                <img src="img.5.jpg" alt="Nossa primeira foto juntos" onerror="this.style.display='none'; this.parentNode.innerHTML='📸<br><small>Foto 1</small>';">
+                <img src=5.jpg" alt="Nossa primeira foto juntos" onerror="this.style.display='none'; this.parentNode.innerHTML='📸<br><small>Foto 1</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/_Photos.jpg" alt="Momento especial" onerror="this.style.display='none'; this.parentNode.innerHTML='💕<br><small>Foto 2</small>';">
+                <img src="KmPhotos.jpg" alt="Momento especial" onerror="this.style.display='none'; this.parentNode.innerHTML='💕<br><small>Foto 2</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/KmPhotos.jpg" alt="Lembrança querida" onerror="this.style.display='none'; this.parentNode.innerHTML='🌹<br><small>Foto 3</small>';">
+                <img src="Fotos.jpg" alt="Lembrança querida" onerror="this.style.display='none'; this.parentNode.innerHTML='🌹<br><small>Foto 3</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/maPhotos.jpg" alt="Nosso amor" onerror="this.style.display='none'; this.parentNode.innerHTML='✨<br><small>Foto 4</small>';">
+                <img src="img/README.md" alt="Nosso amor" onerror="this.style.display='none'; this.parentNode.innerHTML='✨<br><small>Foto 4</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/PMhotos.jpg" alt="Momento único" onerror="this.style.display='none'; this.parentNode.innerHTML='💖<br><small>Foto 5</small>';">
+                <img src="_Fotos.jpg" alt="Momento único" onerror="this.style.display='none'; this.parentNode.innerHTML='💖<br><small>Foto 5</small>';">
             </div>
             <div class="photo-frame">
-                <img src="img/Photos.jpg" alt="Para sempre" onerror="this.style.display='none'; this.parentNode.innerHTML='🥰<br><small>Foto 6</small>';">
+                <img src="ma.jpg" alt="Para sempre" onerror="this.style.display='none'; this.parentNode.innerHTML='🥰<br><small>Foto 6</small>';">
             </div>
         </section>
 
